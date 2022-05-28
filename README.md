@@ -26,25 +26,8 @@
 - [Styled-components](https://styled-components.com/)
 - [Axios](https://axios-http.com/docs/intro)
 
-### :white_check_mark: O que funciona
-- [x] Requisitos básicos.
-- [x] Desafios 1 e 3.
-
-### :x: O que não funciona
-- [ ] Desafio 2.
-
 ### Demonstração (Link Surge) 
 [Site Pokédex](http://future-clover.surge.sh/)
 
-### Layout (Imagens)
-![image](https://user-images.githubusercontent.com/89327618/153894264-22876766-1985-4a24-8f35-05057707b578.png)
-![image](https://user-images.githubusercontent.com/89327618/153894354-968d64c1-6746-4681-b08d-30dbc5a82db0.png)
-![image](https://user-images.githubusercontent.com/89327618/153794860-e8e0b727-2dd8-4961-8ac8-f489f332fba8.png)
 
-<h3 align="center"> 
-  Colaboradores: 
-Geórgine Danilo de Sousa Matos
-- Leonardo Silva dos Santos
-- Luciano Ribeiro dos Santos
-
-</h3>
+![gif 2022-05-28 15-15-55-1](https://user-images.githubusercontent.com/60492862/170838417-1a651e6c-6b00-435c-bd39-3af2dfe6c177.gif)
